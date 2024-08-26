@@ -4,4 +4,3 @@
 
 - This algorithm is designed using recursion.
 
-![N-Queen-visualisation](visualisation.gif)
